@@ -1,0 +1,50 @@
+/* body{
+    background-image:url("http://www.standard.net/image/2017/02/20/800x_a16-9_b0_q80_p1_ca5,0,1822,1033/BZ-Box-Elder-flooding.jpg");
+} */
+
+li {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+} 
+
+ ul{
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+
+} 
+
+/* .carousel-caption{
+    position: absolute;
+    z-index: 1;
+    display: table;
+    width: 100%;
+    height: 100%;
+
+}
+
+.absolute-div{
+    position: absolute;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+}
+
+.carousel-caption{
+    color: darkred;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.item{
+    position: relative;
+}
+*/
+
+img {
+    width: 100vw;
+}

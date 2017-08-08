@@ -1,0 +1,40 @@
+.top-nav-bar{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    color:black;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    border-bottom-color: #A9CEF4;
+    border-bottom: 3px;
+
+}
+
+  ul, li{ 
+    width: 25%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-decoration: none;
+    flex-direction: row;
+}
+
+ .left-nav-links, li{
+    padding: 15px;
+} 
+
+.main-logo{
+    height: 145px;
+    font-size: 75px;
+    font-family: 'Finger Paint';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.login-div, li{
+    display:flex;
+    justify-content: space-between;
+}
